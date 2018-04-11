@@ -198,7 +198,7 @@ a{ text-decoration:none; color:#333; }
     margin-left: 0.26rem;
     font: 0.26rem/0.82rem 'Microsoft YaHei';
     color: #868686;
-    background: url("../images/kaoyan_sprite.png") no-repeat 0 -2.05rem;
+    background: url("../images/kaoyan_sprite.png") no-repeat 0 -2.08rem;
     -webkit-background-size: 1rem;
     background-size: 1rem;
     border-bottom: 1px dashed #eeeeee;
@@ -209,7 +209,7 @@ a{ text-decoration:none; color:#333; }
 }
 
 .zg_kytt{
-    height: 0.92rem;
+    height: 0.93rem;
     overflow: hidden;
 }
 .zg_kytt p{
