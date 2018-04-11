@@ -223,6 +223,7 @@ a{ text-decoration:none; color:#333; }
 .zg_kytt_show{
     float: left;
     margin-left: 0.18rem;
+    margin-top: 0.2rem;
     width: 6rem;
     height: 1.76rem;
     font-size: 0;
@@ -230,9 +231,9 @@ a{ text-decoration:none; color:#333; }
     position: relative;
 }
 .zg_kytt_show ul{
+    margin-top: -0.2rem;
     position: absolute;
     top: 0;
-    left: 0;
 }
 .zg_kytt_show ul li{
     margin-top: 0.2rem;
@@ -241,9 +242,9 @@ a{ text-decoration:none; color:#333; }
 .zg_kytt_show span{
     float: left;
     width: 0.48rem;
-    height: 0.22rem;
+    padding: 0.02rem 0;
     text-align: center;
-    font: 0.18rem/0.22rem 'Microsoft YaHei';
+    font: 0.18rem/1 'Microsoft YaHei';
     color: #e62929;
     border: 0.01rem solid #e62929;
     border-radius: 0.04rem;
