@@ -451,7 +451,7 @@ a{ text-decoration:none; color:#333; }
     -webkit-background-size: 0.06rem;
     background-size: 0.06rem;
 }
-.show_box li.act3 span{
+.show_box li.act3 span{ 
     color: #e62929;
 }
 .zg_kytit03{
