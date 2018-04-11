@@ -242,9 +242,9 @@ a{ text-decoration:none; color:#333; }
 .zg_kytt_show span{
     float: left;
     width: 0.48rem;
-    padding: 0.02rem 0;
+    padding: 0.03rem 0;
     text-align: center;
-    font: 0.18rem/1 'Microsoft YaHei';
+    font: 0.16rem/0.16rem 'Microsoft YaHei';
     color: #e62929;
     border: 0.01rem solid #e62929;
     border-radius: 0.04rem;
@@ -252,7 +252,8 @@ a{ text-decoration:none; color:#333; }
 .zg_kytt_show a{
     float: left;
     margin-left: 0.1rem;
-    font: 0.24rem/1 'Microsoft YaHei';
+    height:0.24rem;
+    font: 0.24rem/0.24rem 'Microsoft YaHei';
 }
 .zg_kytt_show ul{
     animation:run 10s  forwards infinite  linear;
@@ -372,7 +373,7 @@ a{ text-decoration:none; color:#333; }
     width: 0.82rem;
     height: 0.29rem;
     text-align: center;
-    font: 0.2rem/0.29rem 'Microsoft YaHei';
+    font: 0.2rem/0.3rem 'Microsoft YaHei';
     color: #fff;
     background: url("../images/kaoyan_sprite.png") no-repeat 0 -3.33rem;
     -webkit-background-size: 1rem;
